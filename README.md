@@ -24,3 +24,11 @@ Proyecto de markdown sobre videojuegosSimone Monzani
 # Introducción
 
 [⬆️ Volver al índice](#índice "Volver al índice")
+
+## 🎯 Sobre este proyecto
+
+Hola, soy **Simone** y desde siempre me han gustado los videojuegos y las consolas. 🎮\
+Este proyecto contendrá todo mi vida atraves de videojuegos\
+y las consolas que he tenido.
+
+Este es un segundo párrafo. Aquí uso *cursiva*, **negrita** y ***negrita cursiva*** para destacar ideas, y ~~texto tachado~~ para lo que ya no juego.\
