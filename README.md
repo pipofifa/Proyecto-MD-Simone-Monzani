@@ -385,7 +385,7 @@ stateDiagram-v2
 
 ## 📁 Enlaces a archivos del proyecto
 
-- Consulta mis [notas extra](docs/notas.md "Abrir el archivo de notas").
+- Consulta la carpeta de fotos [fotos proyecto](fotos/ "Abrir la carpeta fotos").
 - Mira mi [mando favorito](img/mando.jpg "Abrir la imagen del mando").
 
 ## 🔗 Enlaces dentro del documento
