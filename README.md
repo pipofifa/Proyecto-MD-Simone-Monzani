@@ -126,13 +126,20 @@ La **PlayStation 3** es mi favorita: marcó mi adolescencia y me dio muchísimos
 
 Imágenes de Internet:
 
-![PlayStation 3](https://commons.wikimedia.org/wiki/Special:FilePath/PS3-Fat-Console-Set.jpg)
-![PSP](https://commons.wikimedia.org/wiki/Special:FilePath/PSP-1000.jpg)
+<div align="center">
 
-Imágenes locales del proyecto (carpeta `img`):
+![PlayStation 3](https://commons.wikimedia.org/wiki/Special:FilePath/PS3-Fat-Console-Set.jpg?width=250 "PlayStation 3")
+![PlayStation 2](https://commons.wikimedia.org/wiki/Special:FilePath/Sony-PlayStation-2-30001-wController-L.jpg?width=400 "PlayStation 2")
 
-![Mi mando favorito](img/mando.png)
-![Mi consola favorita: PS3](img/ps3.png)
+</div>
+
+Fotos mías, guardadas en la carpeta `img` del proyecto:
+
+<p align="center">
+  <img src="img/ps3.jpg" alt="Mi PS3" title="Mi PS3" width="250">
+  <img src="img/mando.jpg" alt="Mi mando favorito de PS4" title="Mi mando favorito" width="250">
+  <img src="img/ordenador_pc_gaming.jpg" alt="Mi PC gamer" title="Mi PC gamer" width="250">
+</p>
 
 ### 🧩 Más sobre mi consola favorita
 
@@ -379,7 +386,7 @@ stateDiagram-v2
 ## 📁 Enlaces a archivos del proyecto
 
 - Consulta mis [notas extra](docs/notas.md "Abrir el archivo de notas").
-- Mira mi [mando favorito](img/mando.png "Abrir la imagen del mando").
+- Mira mi [mando favorito](img/mando.jpg "Abrir la imagen del mando").
 
 ## 🔗 Enlaces dentro del documento
 
@@ -400,4 +407,3 @@ Con este README he practicado muchos elementos de **Markdown**.
 > Gracias por leer mi historia gamer. 🎮
 
 <p align="center">Hecho con ❤️ y Markdown · &copy; 2026 Simone Monzani Estevez (pipo_fifa)</p>
-
