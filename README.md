@@ -138,7 +138,7 @@ Fotos mías, guardadas en la carpeta `img` del proyecto:
 <p align="center">
   <img src="img/ps3.jpg" alt="Mi PS3" title="Mi PS3" width="250">
   <img src="img/mando.jpg" alt="Mi mando favorito de PS4" title="Mi mando favorito" width="250">
-  <img src="img/ordenador_pc_gaming.jpg" alt="Mi PC gamer" title="Mi PC gamer" width="250">
+  <img src="img/ordenador.jpg" alt="Mi PC gamer" title="Mi PC gamer" width="250">
 </p>
 
 ### 🧩 Más sobre mi consola favorita
