@@ -52,7 +52,7 @@ Todo empezó con un **ordenador viejo** y el clásico **pinball**. Después lleg
 y más tarde las PlayStation, que marcaron mi adolescencia.\
 Hoy en día juego sobre todo en mi **PC gamer** con mis amigos de toda la vida.
 
-Mi juego favorito es ***GTA V***, con más de 3000 horas. Los que menos me han gustado, como ~~Subnautica~~, los tacho.
+Mi juego favorito es ***GTA V***, con más de 3000 horas. En el proyecto los que menos me han gustado, como ~~Subnautica~~, los tacho.
 
 ---
 
